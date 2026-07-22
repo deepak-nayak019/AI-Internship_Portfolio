@@ -1,0 +1,10 @@
+{
+    "name": "Deepak",
+    "roll_no": 101,
+    "subjects": {
+        "Python": 85,
+        "SQL": 72,
+        "Statistics": 38,
+        "Machine Learning": 91
+    }
+}
