@@ -1,0 +1,8 @@
+order_id, customer, city, amount, status
+5001,Rahul Verma, Mumbai, 2500,Delivered
+5002,Fatima Sheikh ,mumbai,1800,Delivered
+5003,Suresh Iyer,Bangalore, ,Delivered
+5004,Meena Joshi, BANGALORE,3200,Cancelled
+5001,Rahul Verma, Mumbai,2500,Delivered
+5006,Aakash Bose,Pune,4100,Delivered
+5007,Divya Nair, Chennai, ,Pending
